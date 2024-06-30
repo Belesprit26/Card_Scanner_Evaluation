@@ -1,5 +1,5 @@
 
-import 'constants/card_type.dart';
+import 'card_type.dart';
 
 class PaymentCard {
   CardType type;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import '../../../../../core/constants/card_type.dart';
+import '../../utils/card_type.dart';
 import '../../../../../core/constants/constants.dart';
 
 class CardUtils {

@@ -1,5 +1,5 @@
-import 'package:first_app/core/constants/card_type.dart';
-import 'package:first_app/core/payment_card.dart';
+import 'package:first_app/features/card_validation/presentation/utils/card_type.dart';
+import 'package:first_app/features/card_validation/presentation/utils/payment_card.dart';
 import 'package:first_app/features/card_validation/presentation/pages/card_list_page.dart';
 import 'package:first_app/features/card_validation/presentation/pages/widgets/card_month_input_formatter.dart';
 import 'package:first_app/features/card_validation/presentation/pages/widgets/card_utils.dart';
